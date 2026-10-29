@@ -1,0 +1,8 @@
+{
+  "nome": "Torta de Limão",
+  "categoria": "Doces",
+  "descricao": "Torta com merengue maçaricado.",
+  "preco": "48.90",
+  "estoque": "20",
+  "estoqueMinimo": "5"
+}
